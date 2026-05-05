@@ -1,1 +1,5 @@
 /target
+*.ch8
+*.rom
+*.tar
+/rust-chip8-emulator
